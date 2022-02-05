@@ -1,0 +1,17 @@
+{
+    "name": "mmm-wordgenius",
+    "version": "1.0.0",
+    "description": "MMM-WordGenius",
+    "main": "app.js",
+    "author": "drventure",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["MagicMirror"],
+    "license": "MIT",
+    "dependencies": {
+      "jsdom": "^19.0.0",
+      "request": "^2.88.2"
+    }
+  }
+  
