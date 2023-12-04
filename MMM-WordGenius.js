@@ -48,7 +48,7 @@ Module.register("MMM-WordGenius", {
 			console.log("WordGenius-Got notification");
 			console.log(payload);
 			this.dataNotification = payload;
-			this.updateDom(self.config.animationSpeed);
+			this.updateDom(self.config.updateInterval);
 		}
 	},
 
